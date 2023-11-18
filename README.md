@@ -1,20 +1,25 @@
+# Nextor Homepage
 
-## Kompad Homepage
+Welcome to the official repository of the Nextor website. Nextor is a cutting-edge code editor designed to redefine the development experience for programmers. This repository contains the source code for the Nextor website, where users can find information about the editor, its features, and how to get started.
 
-This repository includes 2 parts:
-- Homepage : an introduction for Kompad application
-- Packaging Workflow: an auto packaging process for Kompad app
+## Features
 
-The homepage is `main` branch. And the packaging workflow is `packaging` branch
+- **Multi-Language Support:** Nextor supports a wide range of programming languages, making it a versatile choice for developers working on diverse projects.
+- **Code Navigation and Visualization:** Effortlessly navigate through large codebases with Nextor's advanced code visualization tools. Gain insights into your project's structure and dependencies, facilitating efficient code exploration.
+- **Performance Monitoring:** Keep an eye on your code's performance with built-in monitoring tools. Nextor provides insights into resource usage, helping you optimize your code for enhanced efficiency.
 
-## Packaging workflow
+## Getting Started
 
-The process will be triggered when `hudy9x/kompad` repo changes
+To explore Nextor and get started with this powerful code editor, visit the [Nextor website](https://www.nextor-editor.com). The website provides detailed information about features, installation instructions, and more.
 
-## Attention
+## License
 
-Just remember one thing, we can change anything, any branch BUT `packaging` branch
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Because any changes occur in it will be triggers the packaging process
+## Contact
 
-So, DO NOT commit to it, merge to it or ... without comfirming to hudy9x
+If you have questions, feedback, or issues, feel free to [create an issue](https://github.com/AvaterClasher/nextor-landing/issues) in this repository.
+
+---
+
+[Nextor](https://www.nextor-editor.com) - Redefining the Coding Experience
