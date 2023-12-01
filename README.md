@@ -10,7 +10,7 @@ Welcome to the official repository of the Nextor website. Nextor is a cutting-ed
 
 ## Getting Started
 
-To explore Nextor and get started with this powerful code editor, visit the [Nextor website](https://www.nextor-editor.com). The website provides detailed information about features, installation instructions, and more.
+To explore Nextor and get started with this powerful code editor, visit the [Nextor website](https://nextor.vercel.app). The website provides detailed information about features, installation instructions, and more.
 
 ## License
 
