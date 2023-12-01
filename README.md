@@ -22,4 +22,4 @@ If you have questions, feedback, or issues, feel free to [create an issue](https
 
 ---
 
-[Nextor](https://www.nextor-editor.com) - Redefining the Coding Experience
+[Nextor](https://nextor.vercel.app) - Redefining the Coding Experience
